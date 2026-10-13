@@ -1,0 +1,16 @@
+PlayerID,PlayerName,Country,Role,BattingStyle,BowlingStyle,DOB,DebutYear,ImageFileName,DebutValid
+177,Ravindra Jadaja,India,All-Rounder,LHB,LA Off-Spin,06-12-1988,2009,177_RavindraJadaja.jpg,True
+195,Mohammed Shami,India,Bowler,RHB,RA Fast,03-09-1990,2013,195_MohammedShami.jpg,True
+175,Virat Kohli,India,Batsman,RHB,RA Medium,05-11-1988,2008,175_ViratKohli.jpg,True
+168,Rohit Sharma,India,Batsman,RHB,RA Off-Spin,30-04-1987,2007,168_RohitSharma.jpg,True
+218,Kuldeep Yadav,India,Bowler,LHB,LA Leg-Break,14-12-1994,2017,218_KuldeepYadav.jpg,True
+213,KL Rahul,India,Batsman,RHB,RA Off-Spin,18-04-1992,2016,213_KLRahul.jpg,True
+215,H Pandya,India,All-Rounder,RHB,RA Medium,11-10-1993,2016,215_HPandya.jpg,True
+210,Jasprit Bumrah,India,Bowler,RHB,RA Fast,06-12-1993,2016,210_JaspritBumrah.jpg,True
+227,Shubman Gill,India,Batsman,RHB,RA Off-Spin,08-09-1999,2019,227_ShubmanGill.jpg,True
+225,Mohammed Siraj,India,Bowler,RHB,RA Medium,1994-03-13,2019,225_MohammedSiraj.jpg,True
+219,Shreyas Iyer,India,Batsman,RHB,RA Off-Spin,1994-12-06,2017,219_ShreyasIyer.jpg,True
+153,Axar Patel,India,All-Rounder,LHB,LA Off-Spin,1994-01-20,2014,153_AxarPatel.jpg,True
+236,Suryakumar Yadav,India,Batsman,RHB,RA Off-Spin,1990-09-14,2021,236_SuryakumarYadav.jpg,True
+100,Manoj,India,All-Rounder,RHB,RA Leg-Break,2004-07-07,2021,100_Manoj.jpg,True
+110,Anandharaja k,India,Bowler,RHB,RA Fast,2006-01-24,2025,110_Anandharajak.jpg,True
